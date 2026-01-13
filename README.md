@@ -1,1 +1,1 @@
-# my-ai-journey-2026
+Ovo je moj put ka Google AI Engineer sertifikatu.
