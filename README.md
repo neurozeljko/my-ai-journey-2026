@@ -8,7 +8,7 @@ It represents a rigorous transition from standard ML models to **Agentic Workflo
 
 ---
 
-## 📂 Technical Implementation Directory
+## Technical Implementation Directory
 *Hands-on code examples demonstrating the complete AI lifecycle from creation to governance.*
 
 | File | Domain | Key Concepts |
@@ -23,13 +23,23 @@ It represents a rigorous transition from standard ML models to **Agentic Workflo
 
 ---
 
-## 🏆 Verified Competencies & Badges (Jan 2026)
+## Verified Competencies & Badges (Jan 2026)
 *Intensive specialization track completed via Google Cloud Skills Boost.*
 
-### 🚀 Enterprise Agents & Gemini Architecture
+### Enterprise Agents & Gemini Architecture
 *Advanced proficiency in building autonomous systems and using the latest Gemini models.*
 * **Latest Achievements:** Introduction to Gemini Enterprise | Understand Google Cloud Agents (Jan 27, 2026)
 * **Strategy:** Gen AI Agents: Transform Your Organization | Gen AI: Beyond the Chatbot
 * **Applications:** Gen AI Apps: Transform Your Work | Prompt Design in Vertex AI
 
-### 🛡️ AI Governance,
+### AI Governance, Security & MLOps
+*Ensuring AI systems are safe, compliant, and production-ready.*
+* **Security & Privacy:** Model Armor: Securing AI Deployments | Introduction to Security in the World of AI | Responsible AI for Developers: Privacy & Safety
+* **Fairness & Interpretability:** Responsible AI for Developers: Fairness & Bias | Interpretability & Transparency
+* **MLOps:** Machine Learning Operations (MLOps) with Vertex AI: Model Evaluation | MLOps for Generative AI
+
+### Deep Learning & RAG Foundations
+*Technical mastery of the underlying architectures powering GenAI.*
+* **RAG & Search:** Inspect Rich Documents with Gemini Multimodality and Multimodal RAG | Vector Search and Embeddings
+* **Model Architecture:** Transformer Models and BERT Model | Encoder-Decoder Architecture | Attention Mechanism
+* **Vision & Core:** Create Image Captioning Models | Introduction to Image Generation | Introduction to Large Language Models
